@@ -34,13 +34,16 @@ Ensure Python 3.x and Jupyter Notebook are installed on your system.
 Install required Python packages:
 
 ```pip install numpy pandas matplotlib nltk scikit-learn wordcloud pillow jupyter```
+
 Download and place the BBC dataset in the data/ directory, ensuring the file is named bbc_data.csv.
 
 ## Running the Notebook
 Start Jupyter Notebook:
 
 ```jupyter notebook```
+
 Navigate to the directory containing the notebook and open it.
+
 Run the cells in sequence to perform the analysis.
 
 ## Contributing
